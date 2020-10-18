@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Innomight Youtube Video Downloader
 
-You can use the [editor on GitHub](https://github.com/INNOMIGHT/youtube-video-downloader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+You can use [this link](https://github.com/INNOMIGHT/youtube-video-downloader/blob/main/innomight-yt-video-downloader.py) to view the source file for the downloader.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Download the .Zip file, Extract and Run The .exe file
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download the .Zip file from the above button and then extract the content of the zip and run the .exe file to run the application.
 
-```markdown
-Syntax highlighted code block
+### Steps to download a Youtube Video
 
-# Header 1
-## Header 2
-### Header 3
+Youtube video downloader made with Python using Tkinter for GUI. Steps to download a Youtube Video -
 
-- Bulleted
-- List
+1. Add a youtube link.
+2. Select the destination folder on your machine.
+3. Select the video quality or if you want just audio, select the audio only option.
+4. Hit the Download button and your video will be downloaded. Finished product is shown below -
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/INNOMIGHT/youtube-video-downloader/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Screenshot of the finished product - 
+<center> <img src="https://user-images.githubusercontent.com/53264777/96361715-a561d580-1145-11eb-9556-1d7c4ad85ae6.png"> </center>
