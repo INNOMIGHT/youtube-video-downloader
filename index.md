@@ -1,14 +1,10 @@
 ## Innomight Youtube Video Downloader
-
-You can use [this link](https://github.com/INNOMIGHT/youtube-video-downloader/blob/main/innomight-yt-video-downloader.py) to view the source file for the downloader.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use [this link](https://github.com/INNOMIGHT/youtube-video-downloader/blob/main/innomight-yt-video-downloader.py) to view the source code for the downloader.
 
 ### Download the .Zip file, Extract and Run The .exe file
-
 Download the .Zip file from the above button and then extract the content of the zip and run the .exe file to run the application.
 
 ### Steps to download a Youtube Video
-
 Youtube video downloader made with Python using Tkinter for GUI. Steps to download a Youtube Video -
 
 1. Add a youtube link.
